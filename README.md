@@ -30,7 +30,7 @@ A brief overview of important files and directories:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/ChiShengChen/Vision_QRWKV.git
     cd Vision_QuRWKV
     ```
 
