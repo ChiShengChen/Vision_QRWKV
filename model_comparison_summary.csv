@@ -1,0 +1,15 @@
+Dataset,Classical Accuracy (%),Quantum Accuracy (%),Quantum Better?
+BloodMNIST,91.32,92.22,Yes
+TissueMNIST,55.43,55.48,Yes
+OCTMNIST,55.80,57.00,Yes
+PathMNIST,74.00,71.11,No
+ChestMNIST,74.44,77.26,Yes
+OrganAMNIST,78.24,76.27,No
+OrganSMNIST,60.45,59.18,No
+OrganCMNIST,75.60,74.66,No
+DermaMNIST,71.97,71.97,Equal
+PneumoniaMNIST,83.81,84.78,Yes
+RetinaMNIST,49.25,53.75,Yes
+BreastMNIST,77.56,77.56,Equal
+FashionMNIST,85.56,86.08,Yes
+MNIST,96.49,96.12,No 

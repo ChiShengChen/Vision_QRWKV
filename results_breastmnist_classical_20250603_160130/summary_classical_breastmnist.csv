@@ -1,0 +1,2 @@
+Timestamp_Run_Start,Experiment_ID,Model_Type,Task,n_layer,n_embd,n_head,n_qubits,q_depth,learning_rate,num_epochs_run,seq_len_data,input_channels_data,Config_Block_Size,Config_n_intermediate,num_classes_data,Final_Test_Accuracy_Percent,Final_Avg_Train_Loss
+2025-06-03_16-01-30,c_breastmnist_20250603_160130,Classical,BreastmnistMNIST_8x8,2,64,4,N/A,N/A,0.001,30,64,1,74,256,2,77.56,0.518722
