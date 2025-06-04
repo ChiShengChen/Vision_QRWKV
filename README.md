@@ -107,7 +107,3 @@ This summary is also available in the `model_comparison_summary.csv` file.
 ## Contributing
 
 Contributions to this project are welcome. Please feel free to open an issue to discuss potential changes or submit a pull request.
-
-## License
-
-Consider adding an open-source license (e.g., MIT, Apache 2.0) to the project by creating a `LICENSE` file in the root directory. 
