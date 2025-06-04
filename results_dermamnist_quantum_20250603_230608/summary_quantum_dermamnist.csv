@@ -1,0 +1,2 @@
+Timestamp,Experiment_ID,Model_Type,Task,n_layer,n_embd,n_head,n_qubits,q_depth,lr,epochs,seq_len,input_channels,num_classes,Accuracy,Loss
+2025-06-03 23:06:08,q_dermamnist_20250603_230608,Quantum,DermamnistMNIST_8x8,2,64,4,8,1,0.001,30,64,3,7,71.97,0.409599

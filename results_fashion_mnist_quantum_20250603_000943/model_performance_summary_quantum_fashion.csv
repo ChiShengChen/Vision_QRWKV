@@ -1,0 +1,2 @@
+Timestamp_Run_Start,Experiment_ID,Model_Type,Task,n_layer,n_embd,n_head,n_qubits,q_depth,learning_rate,num_epochs_run,seq_len_data,Config_Block_Size,Config_n_intermediate,Final_Test_Accuracy_Percent,Final_Avg_Train_Loss
+2025-06-03_00-09-43,q_fashion_mnist_20250603_000943,Quantum,FashionMNIST_8x8,2,64,4,8,1,1.0e-03,30,64,74,256,86.08,0.298768

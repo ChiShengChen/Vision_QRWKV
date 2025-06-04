@@ -1,0 +1,2 @@
+Timestamp,Experiment_ID,Model_Type,Task,n_layer,n_embd,n_head,lr,epochs,seq_len,input_channels,num_classes,Accuracy,Loss
+2025-06-03 18:17:33,c_dermamnist_20250603_181733,Classical,DermamnistMNIST_8x8,2,64,4,0.001,30,64,3,7,71.97,0.290138
