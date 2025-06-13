@@ -1,4 +1,4 @@
-# Vision QRWKV: Classical and Quantum RWKV Models for Image Classification
+# Vision QRWKV: Exploring Quantum-Enhanced RWKV Models for Image Classification
 
 ## Introduction
 
