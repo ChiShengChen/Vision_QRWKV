@@ -1,5 +1,8 @@
 # Vision QRWKV: Exploring Quantum-Enhanced RWKV Models for Image Classification
 
+[![arXiv](https://img.shields.io/badge/arXiv-2506.06633-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2506.06633)  
+![image](https://github.com/user-attachments/assets/dba471bb-2198-48ef-9bd6-04f406d7b76c)
+
 ## Introduction
 
 This project explores the application of classical and quantum Receptance Weighted Key Value (RWKV) models for image classification tasks. It includes implementations of both model types and scripts to train and evaluate them on a variety of MedMNIST datasets, as well as standard datasets like MNIST and FashionMNIST. The primary goal is to compare the performance characteristics of quantum RWKV models against their classical counterparts in the context of visual recognition.
