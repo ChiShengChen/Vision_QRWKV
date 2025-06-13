@@ -110,3 +110,14 @@ This summary is also available in the `model_comparison_summary.csv` file.
 ## Contributing
 
 Contributions to this project are welcome. Please feel free to open an issue to discuss potential changes or submit a pull request.
+
+## Citation
+If this code or paper helps your project, please cite this paper!  
+```
+@article{chen2025vision,
+  title={Vision-QRWKV: Exploring Quantum-Enhanced RWKV Models for Image Classification},
+  author={Chen, Chi-Sheng},
+  journal={arXiv preprint arXiv:2506.06633},
+  year={2025}
+}
+```
